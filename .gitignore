@@ -27,3 +27,9 @@ node_modules/
 dist/
 .env
 .env.local
+.DS_Store
+**/.DS_Store
+node_modules/
+dist/
+.env
+.env.local

@@ -3,9 +3,9 @@ export const siteData = {
   tagline: 'Smart Financial Solutions, Simplified',
   description:
     'FinBud Financial is a financial services platform helping individuals and businesses access the right loans and credit facilities. We guide you through personal loans, home loans, business loans, and overdraft facilities with transparency and expertise.',
-  phone: '+91 95403 03660',
+  phone: '+91 88515 85706',
   email: 'Akash@finbudfinancial.com',
-  whatsapp: 'https://api.whatsapp.com/send/?phone=919540303660&text&type=phone_number&app_absent=0',
+  whatsapp: 'https://api.whatsapp.com/send/?phone=918851585706&text&type=phone_number&app_absent=0',
   address: 'D-47, Sector 7, Noida, Uttar Pradesh 201301',
   hours: 'Monday to Saturday, 10:00 AM to 7:00 PM',
   social: {
